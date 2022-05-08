@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/sb857.github.io/static/css/main.31d6cfe0.css",
-    "main.js": "/sb857.github.io/static/js/main.a27c7fb1.js",
-    "index.html": "/sb857.github.io/index.html",
-    "main.a27c7fb1.js.map": "/sb857.github.io/static/js/main.a27c7fb1.js.map"
+    "main.css": "/sb857-resume/static/css/main.31d6cfe0.css",
+    "main.js": "/sb857-resume/static/js/main.bf9fb6bf.js",
+    "index.html": "/sb857-resume/index.html",
+    "main.bf9fb6bf.js.map": "/sb857-resume/static/js/main.bf9fb6bf.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.a27c7fb1.js"
+    "static/js/main.bf9fb6bf.js"
   ]
 }
